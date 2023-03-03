@@ -1,3 +1,2 @@
 
-const yourArray = ["shubham",69,true,68.3,null,undefined];
-console.log(yourArray);
+var yourArray = ["hello", 42, true, "world", false];
